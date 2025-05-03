@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm David Eberekpe
 
-<!--
-**Tech-ashy28/Tech-ashy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Web Development student at **ALX**  
+🌱 Currently learning **HTML**, **CSS**, **JavaScript**, and **Python**  
+💡 Passionate about building clean, responsive, and user-friendly websites  
+🚀 On a journey to become a full-stack developer  
+📫 How to reach me: davideberekpe28@gamil.com
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- HTML5, CSS3
+- JavaScript (Basics)
+- Python (Basics)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- AgriScan – AI-powered soil scanning app (ALX project)
+
+Thanks for stopping by! 😊
+
